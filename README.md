@@ -1,1 +1,2 @@
-# vscode-snippets
+# create-web-app
+Web project boilerplate
