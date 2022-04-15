@@ -1,0 +1,15 @@
+{
+  // COMPILER
+  "compilerOptions": {
+    "strict": true,
+    "allowJs": true,
+    "lib": ["deno.window", "deno.dom", "dom", "esnext"]
+  },
+  // LINT
+  "lint": {
+    "rules": {
+      "include": ["deno.lint.rules"]
+    }
+  }
+  // tasks
+}
